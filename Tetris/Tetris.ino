@@ -1,6 +1,6 @@
 //========================================================================
 // TETRIS with M5STACK : 2018.01.20 Transplant by macsbug
-// Controller : Buttons A = LEFT, B = RIGHT, C = START, ROTATE
+// Controller : GameOn LEFT, GameOn RIGHT, A-button = START, ROTATE
 // Display    : Left = 100x240, Center = 120x240, Right = 100x240
 // Block      : 8ea, 12x12 pixel
 // SD         : tetris.jpg : BackGround Image : R.G.B 320x240 pixel
