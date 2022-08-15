@@ -14,3 +14,7 @@ https://github.com/Fri3dCamp/Badge2020_arduino
 
 
 Download this repo in your libraries folder, similar to other Arduino libraries: https://www.arduino.cc/en/Guide/Libraries#toc4
+
+
+## EXTRA
+Another very nice example of flappy bird (https://github.com/fdb/fri3d-2022-badge-games)
